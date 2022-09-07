@@ -82,7 +82,7 @@
             android:text="This is for you"
             android:fontFamily="@font/manrope_b"
             android:textColor="@android:color/white"
-            android:textSize="16sp"
+            android:textSize="18sp"
             android:textStyle="bold" />
 
         <androidx.recyclerview.widget.RecyclerView

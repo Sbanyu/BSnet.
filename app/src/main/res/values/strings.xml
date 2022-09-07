@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bsnet.</string>
+    <string name="search_film">Search</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">Tv Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="sbanyu">Bsnet.</string>
+
+</resources>
